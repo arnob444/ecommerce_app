@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "461730521639",
+    "firebase_url": "https://todo-list006-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "todo-list006",
+    "storage_bucket": "todo-list006.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461730521639:android:0d12cc0f02849ef917e402",
+        "android_client_info": {
+          "package_name": "com.example.demoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4QIy-3PP4I55tPp93XSlIWykIWSKE1DI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461730521639:android:ff88fc3cffc00d4f17e402",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4QIy-3PP4I55tPp93XSlIWykIWSKE1DI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461730521639:android:07743a9af0cefd4117e402",
+        "android_client_info": {
+          "package_name": "com.example.todolist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4QIy-3PP4I55tPp93XSlIWykIWSKE1DI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
