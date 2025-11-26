@@ -70,6 +70,8 @@ It features secure authentication, product browsing, cart management, payment in
 
 ---
 
+## 📸 Screenshots
+![Home Screen](assets/images/poster.jpeg)
 
 ## ⚙️ How to Run
 ```
